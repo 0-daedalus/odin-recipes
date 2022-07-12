@@ -16,6 +16,8 @@ ol{
 .defaultImage{
     display: block;
     margin: auto;
+    width: 62.2%;
+    height: auto;
 }
 .backlink{
     display: block;
